@@ -8,12 +8,12 @@ _Please complete all applicable._
 - **Short Project Description**: _Classify question into one of 5 catgories - what/when/who/affirmation/unknown_
 - **Team Name**:
 - **Team Members**: _Sowmya S Sundaram - (https://github.com/Sowms/) and Shri Shruthi Shridhar_
-- **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+- **Demo Link**: _(https://github.com/Sowms/Question-Classification/blob/master/Classifying%20questions.pdf)_
 - **Repository Link**: _(https://github.com/Sowms/Question-Classification)_
 - **Labels**: _natural language processing_
 
 ## 🔥 Your Pitch
-_Kindly write a [pitch](https://medium.com/next-media-accelerator/pitch-your-hackathon-product-in-3-minutes-and-conquer-the-jury-9f86bfbdba6f) for your project. Please do not use more than 500 words_
+_We have developed a multi layer perceptron model to classify questions. Then we have built a desktop application to validate it against user input _
 
 
 ## 🔦 Any other specific thing you want to highlight?
